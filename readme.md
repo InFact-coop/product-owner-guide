@@ -1,6 +1,6 @@
 # Product Owner Guide
 
-This guide is borrowed and built on the guide created by our friends [@dwyl](github.com/dwyl), thanks so much for sharing :)
+This guide is borrowed and built on the guide created by our friends [@dwyl](https://github.com/dwyl), thanks so much for sharing :)
 
 A rough guide for those who are product owners on an InFact project.
 
