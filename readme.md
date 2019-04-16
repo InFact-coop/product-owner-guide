@@ -73,7 +73,7 @@ they prioritise and discuss these ideas moulding them into features to be built.
   into what the user's needs are.
 - To see definitions on the **Sprint Ceremonies** such as **stand ups, sprint demos,
   retrospectives and sprint planning** go to:
-  https://github.com/InFact/process-handbook/#ceremonies
+  https://github.com/infact-coop/process-handbook/#ceremonies
 
 ## What is the backlog?
 
@@ -81,7 +81,7 @@ The backlog is your project's to do list, a list of all the features and things
 that need doing. This list contains not only the things that you're planning
 imminently but also ideas you want to discuss in the future or feature requests
 that are yet to be validated. As not all of the issues in the backlog are ready
-to work on we use [labels](https://github.com/InFact/labels#labels) to indicate things like priority or whether something
+to work on we use [labels](https://github.com/dwyl/labels) to indicate things like priority or whether something
 is blocking an issue from being worked on. With the labels as a visual cue you
 can scan the backlog and get a flavour for what's important on the project at
 present.
@@ -89,7 +89,7 @@ present.
 ### Where can I find the backlog?
 
 In order to keep track of progress on a project we use github, see
-https://github.com/InFact/github-reference to learn more about using github. To
+https://github.com/dwyl/github-reference to learn more about using Github. To
 see the backlog click on the 'issues' tab at the top of your project.
 
 This will display a list of all of the individual things to do in your project.
@@ -348,5 +348,3 @@ project at any given time. See the [glossary](#glossary-of-key-terms) if you
 need reminding what some of the key terms mean.
 
 ![image](https://user-images.githubusercontent.com/16775804/35109802-49b17fc6-fc6f-11e7-8150-2ea1df438e48.png)
-
-[![HitCount](http://hits.InFact.io/InFact/product-owner-guide.svg)](http://hits.InFact.io/InFact/product-owner-guide)
